@@ -19,7 +19,7 @@ function createNavbar() {
             <!-- Navigation links on the right -->
             <ul class="navbar-menu">
                 <li class="navbar-item">
-                    <a href="Booked and Busy Creatives.html"class="navbar-links">Home</a>
+                    <a href="index.html"class="navbar-links">Home</a>
                 </li>
                 <li class="navbar-item">
                     <a href="About B&BC.html" class="navbar-links">About</a>
